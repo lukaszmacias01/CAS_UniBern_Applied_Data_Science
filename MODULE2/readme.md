@@ -1,7 +1,5 @@
 # Module 2: Analyzing the Impact of Investor Sentiment on Tesla Stock Prices
 
-![Investor Sentiment Analysis](https://github.com/lukaszmacias01/CAS_UniBern_Applied_Data_Science/blob/master/MODULE2/Investor_Sentiment_Analysis.png) <!-- Update this link to the appropriate image if available -->
-
 ## Overview
 
 This module investigates the impact of **investor sentiment** expressed in the comments section of **Yahoo Finance** on the fluctuations of **Tesla stock prices**. By analyzing sentiment data, the goal is to uncover whether a significant association exists between investor sentiment and the movement of Tesla's share price.
