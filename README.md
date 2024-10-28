@@ -1,4 +1,4 @@
-# This repository houses all projects developed by the author during the University of Bern's CAS Applied Data Science program.
+# This repository houses all projects developed in the course of the University of Bern's CAS Applied Data Science programme. 
 ---
 
 ## Module 1: Data Acquisition and Management
