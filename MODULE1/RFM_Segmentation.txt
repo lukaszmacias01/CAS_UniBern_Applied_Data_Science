@@ -1,0 +1,8 @@
+Conceptual Report Design
+
+Client segmentation for financial institutions specializing in distribution of Structured Investment Products using RFM and K-Means clustering model. 
+
+********************************************************************************
+
+This report outlines a conceptual project design for implementing the RFM (Recency,
+Frequency, Monetary) client segmentation model, enhanced with K-Means clustering, within financial institutions that specialize in distribution of structured investment products. The methodology described in this paper aims to provide a cost-effective and efficient data-driven approach for analyzing the company’s customer base. By segmenting clients based on their transaction history, investment banks can identify their key customer groups, target clients at risk of losing and optimize the allocation of resources for marketing and sales efforts. The application of the K-Means clustering algorithm on top of the classical RFM client segmentation model allows for more refined client segmentation, better tailored to the specific characteristic of the analyzed customer base. 
