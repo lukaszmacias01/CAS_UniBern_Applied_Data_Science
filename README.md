@@ -1,22 +1,22 @@
-# This repository houses all projects developed in the course of the University of Bern's CAS Applied Data Science programme. 
+# Repository of Projects from the CAS Applied Data Science Program at the University of Bern executed by the repository owner. 
+
 ---
 
 ## Module 1: Data Acquisition and Management
-In this module, you’ll learn about various data sources and types, and how to design effective data management models and plans. The focus is on understanding and managing data across diverse sources for efficient analysis.
+Focuses on understanding various data sources and types, along with designing effective data management models and plans. Emphasis is placed on managing data from diverse sources to enable efficient analysis.
 
 ## Module 2: Statistical Inference for Data Science
-This module covers fundamental statistical concepts for describing and analyzing data. You’ll explore the role of statistical inference in data science, gaining skills to apply theoretical concepts and draw scientific conclusions from statistical analyses.
+Covers fundamental statistical concepts for data description and analysis, with an emphasis on the role of statistical inference in data science. Skills are developed to apply theoretical concepts and draw scientific conclusions from statistical analyses.
 
 ## Module 3: Data Analysis and Machine Learning
-Learn key data analysis techniques and apply state-of-the-art machine learning with Python in this module.  
-**Location Note:** This module traditionally takes place on the Mediterranean coast, with full pension hotel accommodation included in the CAS fee.
+Introduces key data analysis techniques and the application of advanced machine learning using Python.  
 
 ## Module 4: Ethics and Best Practices
-Explore best practices in data and code management, resource usage, quality assurance, open science, and open access. You'll also learn about ethical considerations in scientific computing and use Git for version control.
+Covers best practices in data and code management, resource optimization, quality assurance, open science, open access, and FAIR principles. This module also addresses ethical considerations in scientific computing and provides training in Git for version control.
 
 ## Module 5: Peer Consulting and Selected Readings
-This module includes peer knowledge exchange, consultations, and selected readings to foster collaborative learning and deepen your understanding through peer support.
+Encourages collaborative learning through peer knowledge exchange, consultations, and selected readings to deepen understanding through shared expertise.
 
 ## Module 6: Deep Learning
-Dive into deep learning with TensorFlow, gaining hands-on experience with advanced neural network models.  
-**Location Note:** This module traditionally takes place at the historic Hotel Regina in Mürren, a scenic ski resort in the Bernese Oberland, just two hours by train from Bern. Full pension hotel accommodations are included in the CAS fee.
+Offers hands-on experience in deep learning with TensorFlow, focusing on advanced neural network models. 
+
