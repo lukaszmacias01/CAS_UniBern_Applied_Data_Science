@@ -1,4 +1,4 @@
-# Conceptual Project Design: Client Segmentation for Financial Institutions
+# Conceptual Project Design: Client Segmentation for Financial Institutions distributing SIP
 
 ## Overview
 
