@@ -20,6 +20,9 @@ The **RFM model** provides a foundational framework for segmenting clients by as
 - **Frequency** (F): How often a client transacts.
 - **Monetary** (M): The total value of a client’s transactions.
 
+![RFM Client Segmentation](https://github.com/lukaszmacias01/CAS_UniBern_Applied_Data_Science/blob/master/MODULE1/RFM%20Picture.png)
+
+
 ### 2. K-Means Clustering
 Building upon the classical RFM segmentation, **K-Means clustering** is employed to refine and further tailor client segmentation. This approach helps create well-defined client segments based on distinct characteristics within the customer base, resulting in more targeted and personalized insights.
 
