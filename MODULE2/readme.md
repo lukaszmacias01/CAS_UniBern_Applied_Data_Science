@@ -6,6 +6,12 @@
 
 This module investigates the impact of **investor sentiment** expressed in the comments section of **Yahoo Finance** on the fluctuations of **Tesla stock prices**. By analyzing sentiment data, the goal is to uncover whether a significant association exists between investor sentiment and the movement of Tesla's share price.
 
+## Analysis Overview
+
+The analysis performed in the period **January 2023 - September 2024** presents the following development of TSLA share price in relation to the sentiment score of comments on Yahoo Finance:
+
+![Sentiment and Price Line Chart](https://github.com/lukaszmacias01/CAS_UniBern_Applied_Data_Science/blob/master/MODULE2/Visuals/6%20sentiment%20and%20price%20linechart.png)
+
 ## Objectives
 
 The primary goals of this module are to:
