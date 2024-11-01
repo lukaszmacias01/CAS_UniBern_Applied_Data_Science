@@ -1,4 +1,5 @@
-# Predicting Tesla Stock Price Movements
+# Predicting Tesla Stock Price Movements Using Selected Machine Learning Techniques, with a Focus on investors Sentiment expressed in comments section of Yahoo Finance
+---
 
 ## Overview
 This module explores the prediction of Tesla stock price movements using selected machine learning techniques, focusing on investors' sentiment as expressed in the comments section of Yahoo Finance. By analyzing sentiment scores alongside historical stock prices, we aim to identify patterns that may influence stock performance.
@@ -31,18 +32,6 @@ This module explores the prediction of Tesla stock price movements using selecte
    - Assess model performance using metrics such as Mean Squared Error (MSE) and R-squared.
    - Compare predictions against actual stock prices to determine accuracy.
 
-## Results
-- Presentation of key findings, including:
-  - Performance metrics for each machine learning technique.
-  - Insights into how investor sentiment correlates with stock price movements.
-  - Recommendations for investors based on predictive outcomes.
-
-## Conclusion
-This project aims to provide investors with valuable insights into Tesla's stock price movements by leveraging sentiment analysis. By integrating machine learning techniques with market sentiment data, we hope to enhance decision-making processes for investors.
-
-## Further Reading
-For the complete code and additional details, please visit the GitHub repository:
-[GitHub Repository](https://github.com/lukaszmacias01/CAS_UniBern_Applied_Data_Science/tree/master/MODULE3)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+5. **Trading Strategy Implementation**:
+   - Utilize the LSTM model to develop a trading strategy that integrates sentiment analysis.
+   - This strategy resulted in the outperformance of a benchmark, demonstrating its effectiveness in predicting stock price movements.
