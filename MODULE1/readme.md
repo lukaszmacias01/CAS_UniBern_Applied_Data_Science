@@ -1,3 +1,5 @@
+<img src="https://github.com/lukaszmacias01/CAS_UniBern_Applied_Data_Science/raw/master/UniBern/uni%20bern.png" alt="Uni Bern" width="200" style="float:right;"/>
+
 # Conceptual Project Design: Client Segmentation for Financial Institutions distributing SIP
 
 ## Overview
