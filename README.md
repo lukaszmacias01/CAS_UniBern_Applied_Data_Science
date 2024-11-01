@@ -1,3 +1,8 @@
+
+![Uni Bern](https://github.com/lukaszmacias01/CAS_UniBern_Applied_Data_Science/raw/master/UniBern/uni%20bern.png)
+
+---
+
 # Repository of Projects from the CAS Applied Data Science Program at the University of Bern executed by the repository owner. 
 
 ---
