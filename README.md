@@ -1,5 +1,5 @@
 
-![Uni Bern](https://github.com/lukaszmacias01/CAS_UniBern_Applied_Data_Science/raw/master/UniBern/uni%20bern.png)
+<img src="https://github.com/lukaszmacias01/CAS_UniBern_Applied_Data_Science/raw/master/UniBern/uni%20bern.png" alt="Uni Bern" width="400"/>
 
 ---
 
