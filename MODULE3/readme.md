@@ -40,6 +40,5 @@ This module explores the prediction of Tesla stock price movements using selecte
    - Utilize the LSTM model to develop a trading strategy that integrates sentiment analysis.
    - This strategy resulted in the outperformance of a benchmark, demonstrating its effectiveness in predicting stock price movements.
 
-![LSTM Prediction - Trading Strategy]((https://github.com/lukaszmacias01/CAS_UniBern_Applied_Data_Science/blob/master/MODULE3/Visuals/trading_strategy_with_dots_gain_loss.png))
-
+![Trading Strategy with Gain/Loss Dots](https://github.com/lukaszmacias01/CAS_UniBern_Applied_Data_Science/raw/master/MODULE3/Visuals/trading_strategy_with_dots_gain_loss.png)
 
