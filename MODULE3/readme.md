@@ -1,3 +1,7 @@
+<img src="https://github.com/lukaszmacias01/CAS_UniBern_Applied_Data_Science/raw/master/UniBern/uni%20bern.png" alt="Uni Bern" width="200" style="float:right;"/>
+
+---
+
 # Predicting Tesla Stock Price Movements Using Selected Machine Learning Techniques, with a Focus on investors Sentiment expressed in comments section of Yahoo Finance
 ---
 
