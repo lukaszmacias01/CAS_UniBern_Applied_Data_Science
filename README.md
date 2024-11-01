@@ -1,10 +1,6 @@
 <img src="https://github.com/lukaszmacias01/CAS_UniBern_Applied_Data_Science/raw/master/UniBern/uni%20bern.png" alt="Uni Bern" width="250" style="float:right;"/>
 
----
-
 # Repository of Projects from the CAS Applied Data Science Program at the University of Bern executed by the repository owner. 
-
----
 
 ## Module 1: Data Acquisition and Management
 Focuses on understanding various data sources and types, along with designing effective data management models and plans. Emphasis is placed on managing data from diverse sources to enable efficient analysis.
