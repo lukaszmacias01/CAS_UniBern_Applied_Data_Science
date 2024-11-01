@@ -1,4 +1,5 @@
 <img src="https://github.com/lukaszmacias01/CAS_UniBern_Applied_Data_Science/raw/master/UniBern/uni%20bern.png" alt="Uni Bern" width="200" style="float:right;"/>
+
 ---
 
 # Module 2: Analyzing the Impact of Investor Sentiment on Tesla Stock Prices
