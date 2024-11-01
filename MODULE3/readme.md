@@ -4,6 +4,8 @@
 ## Overview
 This module explores the prediction of Tesla stock price movements using selected machine learning techniques, focusing on investors' sentiment as expressed in the comments section of Yahoo Finance. By analyzing sentiment scores alongside historical stock prices, we aim to identify patterns that may influence stock performance.
 
+![Tesla Stock Price vs. Sentiment Score](https://github.com/lukaszmacias01/CAS_UniBern_Applied_Data_Science/raw/master/MODULE3/Visuals/line%20chart%20tsla%20x%20senti%20score%205%20days%20runnign%20avg.png)
+
 ## Objectives
 - To develop a robust model for predicting Tesla's stock price movements.
 - To incorporate sentiment analysis of investor comments from Yahoo Finance.
