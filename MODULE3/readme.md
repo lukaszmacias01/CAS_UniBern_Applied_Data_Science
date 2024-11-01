@@ -29,6 +29,8 @@ This module explores the prediction of Tesla stock price movements using selecte
      - Linear Regression
      - Random Forest
      - Long Short-Term Memory (LSTM) Networks
+    
+![LSTM Prediction - Full History](https://github.com/lukaszmacias01/CAS_UniBern_Applied_Data_Science/raw/master/MODULE3/Visuals/LSTM_prediction_full_history.png)
 
 4. **Model Evaluation**:
    - Assess model performance using metrics such as Mean Squared Error (MSE) and R-squared.
@@ -37,3 +39,7 @@ This module explores the prediction of Tesla stock price movements using selecte
 5. **Trading Strategy Implementation**:
    - Utilize the LSTM model to develop a trading strategy that integrates sentiment analysis.
    - This strategy resulted in the outperformance of a benchmark, demonstrating its effectiveness in predicting stock price movements.
+
+![LSTM Prediction - Trading Strategy]((https://github.com/lukaszmacias01/CAS_UniBern_Applied_Data_Science/blob/master/MODULE3/Visuals/trading_strategy_with_dots_gain_loss.png))
+
+
